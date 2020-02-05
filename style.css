@@ -113,14 +113,16 @@ img {
 
 
 
-
+@media (min-width: 701px)
+{.add-mob {
+	display: none;
+}
+}
 
 @media (max-width: 700px) {
 
 	a {
-		font-weight: normal;
-		font-size: 0.75rem;
-		border: none;
+		display: none;
 	}
 
 	.section-sc .container {
