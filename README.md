@@ -1,2 +1,2 @@
-# royal
-A Royal Super Market, Goregaon East
+# land01
+Template for a working and responsive Landing Page
